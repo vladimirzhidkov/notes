@@ -1,0 +1,22 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "prototypal-inheritance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladimirzhidkov/notes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladimirzhidkov/notes/issues"
+  },
+  "homepage": "https://github.com/vladimirzhidkov/notes#readme",
+  "devDependencies": {
+    "traceur": "0.0.91"
+  }
+}
